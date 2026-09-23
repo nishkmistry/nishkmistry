@@ -1,14 +1,14 @@
 # Hi, I'm Nishk Mistry 👋 
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=B.Tech+Computer+Science+Student;Deep+Learning+%26+Computer+Vision;Full-Stack+%26+Embedded+Systems;Open+Source+Contributor" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://nishkmistry.github.io"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nishk-mistry"><img src="https://img.shields.io/badge/LinkedIn-Nishk_Mistry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://nishkmistry.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-nishkmistry.github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nishk-mistry" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Nishk_Mistry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/nishkmistry"><img src="https://img.shields.io/badge/GitHub-nishkmistry-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -56,26 +56,15 @@ Undergraduate Computer Science & Engineering Student at **VIT Chennai**. Passion
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Tech Public Opinion Tracker](https://github.com/nishkmistry/Tech-Public-Opinion-Tracker)** | NLP pipeline extracting tech insights from Reddit via RoBERTa, LDA topic modeling, and virality prediction. | `Python` `RoBERTa` `Streamlit` |
-| **[Chess Match Analyser](https://github.com/nishkmistry)** | Interactive engine-backed platform evaluating player history and game strategy. | `React` `Node.js` `PostgreSQL` |
+| **[EventVision](https://github.com/nishkmistry/EventVision)** | Intelligent adaptive image processing pipeline with real-time video processing. | `Python` `YOLOv8` `OpenCV` |
 | **[BMW Global Sales Data Analysis](https://github.com/nishkmistry/BMW-Global-Sales-DataAnalysis)** | Exploratory data analysis and trend modeling on global automotive sales data. | `R` `tidyverse` `ggplot2` |
 
 ---
 
-### ⚡ GitHub Metrics & Badges
+### ⚡ GitHub Overview & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishkmistry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishkmistry&layout=compact&theme=tokyonight&hide_border=true&hide=html" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishkmistry&theme=tokyonight&hide_border=true" width="98%" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishkmistry&theme=tokyonight&no-frame=true&column=4" />
+  <img src="https://img.shields.io/github/followers/nishkmistry?style=for-the-badge&color=blue&logo=github" />
+  <img src="https://img.shields.io/github/stars/nishkmistry?style=for-the-badge&color=yellow&logo=github" />
+  <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github" />
 </p>
